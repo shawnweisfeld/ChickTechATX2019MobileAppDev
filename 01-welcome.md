@@ -6,7 +6,7 @@ layout: default
 
 ## Video
 
-Changing the world with code | Emma Yang | TEDxFoggyBottom
+Changing the world with code by Emma Yang at TEDxFoggyBottom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ghqSw40pC5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
