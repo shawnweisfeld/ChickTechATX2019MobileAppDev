@@ -12,8 +12,8 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
 - **9:00 AM - 9:10 AM** Welcome and Logistics
 - **9:10 AM - 9:45 AM** Icebreaker
 - **10:00 AM - 12:00 PM** Workshop Session (2 hrs)
-   - [Welcome](./01-welcome.md)
-   - Thing 2
+   - [Welcome](./01-welcome.md) (30 min)
+   - [Introduction to App Inventor](./02-appinventor.md) (45 min)
 - **12:00 PM - 1:00 PM** Lunch
 - **1:00 PM - 4:45 PM** Workshop Session (3:45 hrs)
    - Thing 1
