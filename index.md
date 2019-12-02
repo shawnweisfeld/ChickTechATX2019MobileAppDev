@@ -40,3 +40,4 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
 ## Reference
 
 ## Credits
+Lessons based on the [MIT Computational Thinking Curriculum](http://appinventor.mit.edu/explore/teach)
