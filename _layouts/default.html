@@ -36,7 +36,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>
       $('a[href^="http://"], a[href^="https://"]').not('a[href*="'+location.hostname+'"]').attr('target','_blank');
-      $('a[href^="http://"], a[href^="https://"]').eq('a[href*/ctct/*="'+location.href+'"]').attr('target','_blank');
+      $('a:contains("/ctct/"').attr('target','_blank');
     </script>    
 
     {% if site.google_analytics %}
