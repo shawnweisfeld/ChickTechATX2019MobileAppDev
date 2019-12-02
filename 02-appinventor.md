@@ -16,8 +16,8 @@ App Inventor is a block-based programming environment that allows us to make mob
 
 ## Test your first app
 
-1. [Download](https://shawnweisfeld.github.io/ChickTechATX2019MobileAppDev/ctct/Unit01-HelloItsMe/TwoButtonGame.aia) the Two Button Game here
-1. Follow the instruction worksheet [here](https://shawnweisfeld.github.io/ChickTechATX2019MobileAppDev/ctct/Unit01-HelloItsMe/GameStudentGuide.pdf)
+1. Download the Two Button Game [here](./ctct/Unit01-HelloItsMe/TwoButtonGame.aia)
+1. Follow the instruction worksheet [here](./ctct/Unit01-HelloItsMe/GameStudentGuide.pdf)
 
 
 [Home](./index.md)
