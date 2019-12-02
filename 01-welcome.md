@@ -20,11 +20,11 @@ Now if you have an EVEN number you will be the "interviewer" and you will be int
 - What is your name?
 - What school do you go to?
 - What technology can you not live without? Why?
-- What do you hope to get out of your ChickTech experience?
+- What do you hope to learn at ChickTech?
 
 Now, lets swap roles so ODD number folks are now the interviewers and are answering the questions. You have another **5 minutes**.
 
-Now let’s go around the room, and using your outside voice, introduce the class to the person you interviewed. 
+Now let’s go around the room and introduce the class to the person you interviewed. 
 
 
 [Home](./index.md)
