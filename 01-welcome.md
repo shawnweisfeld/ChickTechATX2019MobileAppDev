@@ -4,6 +4,11 @@ layout: default
 
 # Welcome
 
+## Video
+
+Changing the world with code | Emma Yang | TEDxFoggyBottom
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghqSw40pC5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Prizes
 
