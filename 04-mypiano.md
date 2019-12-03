@@ -21,6 +21,7 @@ When programming apps we use procedures to help organize our code. Sometimes dev
 
 ## Build the app
 
+1. Download the app template [here](./ctct/Unit02-MyPiano/MyPiano_template_MS.aia)
 1. Part 1: Layout your Piano [here](./ctct/Unit02-MyPiano/StudentGuidePart1.pdf)
 1. Part 2: Add sound to your Piano [here](./ctct/Unit02-MyPiano/StudentGuidePart2.pdf)
 1. Part 3: Refactor your app to use procedures [here](./ctct/Unit02-MyPiano/StudentGuidePart3.pdf)
