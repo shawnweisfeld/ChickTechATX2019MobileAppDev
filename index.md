@@ -32,14 +32,9 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
 - **12:30 PM- 1:00 PM** - Howdy Bots Demo
 - **1:00 PM - 3:45PM**  Workshop Session  (2:45 hrs)
    - [Find the Gold](./06-findthegold.md) (continued) (1 hr)
-   - Thing 2
+   - [Food Chase Game](07-foodchasegame.md) (1:45 hrs)
 - **4:10 PM - 4:20 PM**  Group Photo 
 - **4:20 PM - 5:45 PM**  Tech Show
-
-
-## Bonus
-
-## Reference
 
 ## Credits
 Lessons based on the [MIT Computational Thinking Curriculum](http://appinventor.mit.edu/explore/teach)
