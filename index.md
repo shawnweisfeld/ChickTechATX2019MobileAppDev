@@ -13,19 +13,20 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
 - **9:10 AM - 9:45 AM** Icebreaker
 - **10:00 AM - 12:00 PM** Workshop Session (2 hrs)
    - [Welcome](./01-welcome.md) (30 min)
+   - Phone Setup (45 min)
    - [Introduction to App Inventor](./02-appinventor.md) (45 min)
-   - [Hello It's Me](./03-helloitsme.md) (45 min)
 - **12:00 PM - 1:00 PM** Lunch
 - **1:00 PM - 4:45 PM** Workshop Session (3:45 hrs)
+   - [Hello It's Me](./03-helloitsme.md) (45 min)
    - [My Piano](./04-mypiano.md) (2 hrs)
-   - 
+   - [Music Maker](./05-musicmaker.md) (1 hr)
 - **4:45 PM - 5:00 PM** Wrap-up
 
 ## Day 2 - Sunday  December 8th:
 
 - **8:00 AM - 9:00 AM**  Arrive / Check-in, Breakfast 
 - **9:00 AM - 12:00 PM**  Workshop Session (3 hrs)
-   - Thing 1
+   - [Music Maker](./05-musicmaker.md) (continued) (1 hr)
    - Thing 2
 - **12:00 PM - 1:00 PM**  Lunch 
 - **12:30 PM- 1:00 PM** - Howdy Bots Demo

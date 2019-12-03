@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My Piano : Introduction to Layout Components
+# My Piano
 
 Do you play a musical instrument? In this lesson you will be creating a Piano App.
 
