@@ -27,11 +27,11 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
 - **8:00 AM - 9:00 AM**  Arrive / Check-in, Breakfast 
 - **9:00 AM - 12:00 PM**  Workshop Session (3 hrs)
    - [Music Maker](./05-musicmaker.md) (continued) (1 hr)
-   - Thing 2
+   - [Find the Gold](./06-findthegold.md) (2 hr)
 - **12:00 PM - 1:00 PM**  Lunch 
 - **12:30 PM- 1:00 PM** - Howdy Bots Demo
 - **1:00 PM - 3:45PM**  Workshop Session  (2:45 hrs)
-   - Thing 1
+   - [Find the Gold](./06-findthegold.md) (continued) (1 hr)
    - Thing 2
 - **4:10 PM - 4:20 PM**  Group Photo 
 - **4:20 PM - 5:45 PM**  Tech Show
