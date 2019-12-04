@@ -17,7 +17,9 @@ layout: default
 
 ## Design the app
 
-Using the Design worksheet draw what your app will look like.
+Using the Design worksheet draw what your app will look like. 
+
+Your app shall be able to play music from 4 instruments. You will need a button to start playing each instrument and another to stop playing each instrument (8 total). The start buttons will each have a picture representing the instrument. The stop buttons will be a red circle with the word "STOP" in it. 
 
 ![design](assets/img/05/02.png)
 
