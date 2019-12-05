@@ -16,6 +16,7 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
    - Phone Setup (45 min)
    - [Introduction to App Inventor](./02-appinventor.md) (45 min)
 - **12:00 PM - 1:00 PM** Lunch
+- **12:30 PM- 1:00 PM** - Howdy Bots Demo
 - **1:00 PM - 4:45 PM** Workshop Session (3:45 hrs)
    - [Hello It's Me](./03-helloitsme.md) (45 min)
    - [My Piano](./04-mypiano.md) (2 hrs)
@@ -29,7 +30,6 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
    - [Music Maker](./05-musicmaker.md) (continued) (1 hr)
    - [Find the Gold](./06-findthegold.md) (2 hr)
 - **12:00 PM - 1:00 PM**  Lunch 
-- **12:30 PM- 1:00 PM** - Howdy Bots Demo
 - **1:00 PM - 3:45PM**  Workshop Session  (2:45 hrs)
    - [Find the Gold](./06-findthegold.md) (continued) (1 hr)
    - [Food Chase Game](07-foodchasegame.md) (1:45 hrs)
