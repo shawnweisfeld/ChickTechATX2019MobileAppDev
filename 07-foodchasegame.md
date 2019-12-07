@@ -88,6 +88,6 @@ In this exercise you will make a game app with two balls. The red ball eats food
 3. Part 2: Add collision detection [here](./ctct/Unit05-FoodChaseGame/StudentGuidePart2.pdf)
 4. Part 3: Add app features [here](./ctct/Unit05-FoodChaseGame/StudentGuidePart3.pdf)
 5. Part 4: Add high score [here](./ctct/Unit05-FoodChaseGame/StudentGuidePart4.pdf)
-6. Challenge: Add moving food, sound, greenball speed,  [here](./ctct/Unit05-FoodChaseGame/StudentGuideChallenge.pdf)
+6. Challenge: Add moving food, sound, and greenball speed [here](./ctct/Unit05-FoodChaseGame/StudentGuideChallenge.pdf)
 
 [Home](./index.md)
