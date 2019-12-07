@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello Its's Me
+# Hello It's Me
 
 In this lesson you will build your first app!
 
