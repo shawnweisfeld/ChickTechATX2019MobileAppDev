@@ -60,8 +60,8 @@ layout: default
 1. Challenge: Add scoring, lives, timer, sounds and levels [here](./ctct/Unit04-FindTheGold/StudentGuideChallenge.pdf)
 
 ### Misc Files
-- [Yay](/ctct/Unit04-FindTheGold/yea.mp3)
-- [Fail](/ctct/Unit04-FindTheGold/fail.mp3)
+- [Yay](./ctct/Unit04-FindTheGold/yea.mp3)
+- [Fail](./ctct/Unit04-FindTheGold/fail.mp3)
 
 
 [Home](./index.md)
