@@ -59,4 +59,9 @@ layout: default
 1. Part 3: Add collision detection [here](./ctct/Unit04-FindTheGold/StudentGuidePart3.pdf)
 1. Challenge: Add scoring, lives, timer, sounds and levels [here](./ctct/Unit04-FindTheGold/StudentGuideChallenge.pdf)
 
+### Misc Files
+- [Yay](/ctct/unit04-findthegold/yea.mp3)
+- [Fail](/ctct/unit04-findthegold/fail.mp3)
+
+
 [Home](./index.md)
