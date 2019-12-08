@@ -29,16 +29,17 @@ Course Materails can be found here: [https://aka.ms/ChickTech/MobileApp](https:/
 
 - **8:00 AM - 9:00 AM**  Arrive / Check-in, Breakfast 
 - **9:00 AM - 12:00 PM**  Workshop Session (3 hrs)
-   - [Find the Gold](./06-findthegold.md) (3 hr)
+   - [Find the Gold](./06-findthegold.md) (2 hr)
+   - [Food Chase Game](07-foodchasegame.md) (1 hrs)
 - **12:00 PM - 1:00 PM**  Lunch 
 - **1:00 PM - 3:45PM**  Workshop Session  (2:45 hrs)
-   - [Food Chase Game](07-foodchasegame.md) (2:45 hrs)
+   - [Food Chase Game](07-foodchasegame.md) continued (30 min)
+   - Choose your own Adventure - pick one or more (2:15 hrs)
+     - Enhance one of the apps you created ealier.
+     - Build your own custom app from scratch. 
+     - Build the [Drawing App](08-drawing.md)
 - **4:10 PM - 4:20 PM**  Group Photo 
 - **4:20 PM - 5:45 PM**  Tech Show
-
-## Bonus
-
- - [Drawing App](08-drawing.md)
 
 ## Credits
 Lessons based on the [MIT Computational Thinking Curriculum](http://appinventor.mit.edu/explore/teach)
